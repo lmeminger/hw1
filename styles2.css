@@ -3,10 +3,16 @@ body {
   width: 960px;
   margin: 10px auto;
 }
-img {
+img.a {
   width: 150px;
   box-shadow: 8px 8px 4px #AAA;
   float: right;
+}
+
+img.b {
+  width: 960px;
+  box-shadow: 8px 8px 4px #AAA;
+  margin: 10px auto;
 }
 
 .header {
